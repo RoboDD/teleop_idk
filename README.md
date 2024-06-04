@@ -27,6 +27,8 @@ Comming Soon!
 - Install Ubuntu 20.04 and ROS Noetic (recommend to use Windows+WSL2 [Ubuntu 20.04])
 - Install `xarm_ros`: [link](https://github.com/xArm-Developer/xarm_ros)
 - Install `ROS-TCP-Endpoint`: [link](https://github.com/Unity-Technologies/ROS-TCP-Endpoint)
+- Download Oculus App: [link](https://www.meta.com/gb/quest/setup/)
+- Download ```lite6mr.exe``` from release page
 
 ## 4. Bring-up
 
