@@ -68,3 +68,8 @@ Immersive Embodied Telemanipulation Systems with Velocity Controllers [Under Rev
 ## 8. Acknowledgments
 
 The author would like to express his sincere gratitude to Prof. X and Y for his great support and all VEC team members who contribute to the development of this research.
+
+## 9. References
+
+- dkt
+- hubotverse
