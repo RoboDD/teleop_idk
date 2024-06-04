@@ -10,19 +10,17 @@ Coming soon!
 
 ## 1. Description of Packages
 
-- ```arm_bringup```: Nodes for initializing various components of the USV, such as the STM32 communication, IMU setup, and VIO integration.
-- ```usv_description```: Configuration for visualizing the USV model in RViz, including URDF definitions and mesh files.
-- ```usv_control```: Implementation of a PID controller for velocity control of the USV.
-- ```usv_teleop```: Nodes and interfaces for teleoperating the USV using keyboard, joysticks, or VR interfaces.
+- ```mr_teleop_lite6_mvj.py```: Nodes for initializing various components of the USV, such as the STM32 communication, IMU setup, and VIO integration.
+- ```lite6.urdf```: URDF definitions for UFactory Lite 6 robotic manipulator.
+- ```lite6mr.exe```: Unity user client.
 
 ## 2. Install
 
+- Install Ubuntu 20.04 and ROS Noetic (recommend to use Windows+WSL2 [Ubuntu 20.04])
+- Install `xarm_ros`: [link](https://github.com/xArm-Developer/xarm_ros)
+- Install `ROS-TCP-Endpoint`: [link](https://github.com/Unity-Technologies/ROS-TCP-Endpoint)
 
-## 3. Demos
-
-### 3.1. Simulation
-
-### 3.2. Real-world
+## 3. Bring-ups
 
 ```bash
 roslaunch ros_tcp_endpoint endpoint.launch
