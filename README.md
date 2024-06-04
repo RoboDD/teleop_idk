@@ -12,7 +12,8 @@ Comming Soon!
 
 ## 1. Description of Files
 
-- ```mr_teleop_lite6_mvj.py```: Main node.
+- ```mr_teleop_lite6_mvc.py```: Cartesian velocity version.
+- ```mr_teleop_lite6_mvj.py```: Joint velocity version.
 - ```lite6.urdf```: URDF definitions for UFactory Lite 6 robotic manipulator.
 - ```lite6mr.exe```: Unity user client.
 
