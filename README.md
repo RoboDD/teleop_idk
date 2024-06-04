@@ -8,6 +8,8 @@
 
 Coming soon!
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1dyqM8UEa1E/0.jpg)](https://www.youtube.com/embed/1dyqM8UEa1E)
+
 ## 1. Description of Packages
 
 - ```mr_teleop_lite6_mvj.py```: Main node.
