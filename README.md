@@ -15,6 +15,7 @@ Comming Soon!
 - ```mr_teleop_lite6_mvc.py```: Cartesian velocity version.
 - ```mr_teleop_lite6_mvj.py```: Joint velocity version.
 - ```lite6.urdf```: URDF definitions for UFactory Lite 6 robotic manipulator.
+- ```build_lite6.py```: imports Lite 6 URDF model
 - ```lite6mr.exe```: Unity user client (PCVR).
 
 ## 2. Hardware
@@ -28,6 +29,7 @@ Comming Soon!
 - Install `xarm_ros`: [link](https://github.com/xArm-Developer/xarm_ros)
 - Install `ROS-TCP-Endpoint`: [link](https://github.com/Unity-Technologies/ROS-TCP-Endpoint)
 - Install dependencies: sm, rtb, r
+- Copy this file to ```~/.local/lib/python3.8/site-packages/rtbdata/xacro```
 - Download Oculus App: [link](https://www.meta.com/gb/quest/setup/)
   - Version: Oculus App 60.0.0.162.352 (60.0.0.162.352) 
   - Connect your MR device to your PC, normally Windows, using Quest Link (recommended) or AirLink
