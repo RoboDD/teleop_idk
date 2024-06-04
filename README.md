@@ -54,7 +54,10 @@ Comming Soon!
   
 ## 5. Additional Setup for Agile Motion (Experimental)
 
-May cause inevitable damage! Be very cautious!
+May cause inevitable damage! Be very cautious! Be aware of safety!
+
+- Turn on `reduced mode` for Lite 6
+- Set joint speed limit to `180` deg/s
 
 ## 6. Notes for adapting for other platforms
 
