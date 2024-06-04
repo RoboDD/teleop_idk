@@ -15,7 +15,7 @@ Comming Soon!
 - ```mr_teleop_lite6_mvc.py```: Cartesian velocity version.
 - ```mr_teleop_lite6_mvj.py```: Joint velocity version.
 - ```lite6.urdf```: URDF definitions for UFactory Lite 6 robotic manipulator.
-- ```lite6mr.exe```: Unity user client.
+- ```lite6mr.exe```: Unity user client (PCVR).
 
 ## 2. Hardware
 
