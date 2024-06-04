@@ -54,7 +54,7 @@ Comming Soon!
 
 May cause inevitable damage! Be very cautious!
 
-## 6. Call for Contributions
+## 6. Notes for adapting for other platforms
 
 Let's build this codebase for diverse robots.
 
