@@ -42,7 +42,7 @@ Comming Soon!
 ## 4. Bring-up
 
 - Open xArm Studio through browser: `http://192.168.1.XXX:18333`
-- Plug-in Quest Link, then run ```lite6mr.exe```
+- Plug-in Quest Link, then run ```lite6mr.exe```. Reset initial view as desired.
 - Open Ubuntu (WSL2), then run following nodes in separate terminals:
 
   ```bash
