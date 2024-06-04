@@ -3,14 +3,13 @@
 [![Releases](https://img.shields.io/github/release/Zhefan-Xu/CERLAB-UAV-Autonomy.svg)](https://github.com/RoboDD/usv_autonomy/releases)
 ![Noetic Ubuntu 20.04](https://github.com/Zhefan-Xu/CERLAB-UAV-Autonomy/actions/workflows/Ubuntu20.04-build.yaml/badge.svg) 
 [![license](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
-[![Linux platform](https://img.shields.io/badge/platform-linux--64-orange.svg)](https://releases.ubuntu.com/20.04/)
-[![Linux platform](https://img.shields.io/badge/platform-linux--arm-brown.svg)](https://releases.ubuntu.com/20.04/)
 
-Coming soon!
+
+## 0. Demo
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1dyqM8UEa1E/0.jpg)](https://www.youtube.com/embed/1dyqM8UEa1E)
 
-## 1. Description of Packages
+## 1. Description of Files
 
 - ```mr_teleop_lite6_mvj.py```: Main node.
 - ```lite6.urdf```: URDF definitions for UFactory Lite 6 robotic manipulator.
