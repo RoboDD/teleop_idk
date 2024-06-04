@@ -51,15 +51,15 @@ Comming Soon!
 
 May cause inevitable damage! Be very cautious!
 
-## 5. Call for Contributions
+## 6. Call for Contributions
 
 Let's build this codebase for diverse robots.
 
-## 6. Citations
+## 7. Citations
 
 Immersive Embodied Telemanipulation Systems with Velocity Controllers [Under Review]
 [paper](https://ieeexplore.ieee.org/)
 
-## 7. Acknowledgments
+## 8. Acknowledgments
 
 The author would like to express his sincere gratitude to Prof. X and Y for his great support and all VEC team members who contribute to the development of this research.
