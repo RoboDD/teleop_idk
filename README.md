@@ -24,6 +24,11 @@ Coming soon!
 
 ### 3.2. Real-world
 
+```bash
+roslaunch ros_tcp_endpoint endpoint.launch
+roslaunch xarm_bringup lite6_server.launch robot_ip:=192.168.1.242
+rosrun xarm_bringup mr_teleop_lite6_mvj.py
+```
 
 ## 4. Citatations
 
