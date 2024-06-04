@@ -10,7 +10,7 @@ Coming soon!
 
 ## 1. Description of Packages
 
-- ```mr_teleop_lite6_mvj.py```: Nodes for initializing various components of the USV, such as the STM32 communication, IMU setup, and VIO integration.
+- ```mr_teleop_lite6_mvj.py```: Main node.
 - ```lite6.urdf```: URDF definitions for UFactory Lite 6 robotic manipulator.
 - ```lite6mr.exe```: Unity user client.
 
