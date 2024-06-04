@@ -28,6 +28,13 @@ Comming Soon!
 - Install `xarm_ros`: [link](https://github.com/xArm-Developer/xarm_ros)
 - Install `ROS-TCP-Endpoint`: [link](https://github.com/Unity-Technologies/ROS-TCP-Endpoint)
 - Download Oculus App: [link](https://www.meta.com/gb/quest/setup/)
+- Download Oculus App: https://www.meta.com/gb/quest/setup/
+  - Version: Oculus App 60.0.0.162.352 (60.0.0.162.352) 
+  - Connect your MR device to your PC, normally Windows, using Quest Link (recommended) or AirLink
+  - Enable developer mode: [link](https://developer.oculus.com/documentation/native/android/mobile-device-setup/?locale=en_GB)
+  - Oculus App -> Setting -> General ->Turn on "unknown source"
+  - Oculus App -> Setting -> Beta -> Turn on "Runtime", "Oculus Link Passthrough (required)"
+  - Launch Quest Link : [link](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/)
 - Download ```lite6mr.exe``` from release page
 
 ## 4. Bring-up
