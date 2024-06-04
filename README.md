@@ -38,11 +38,14 @@ Comming Soon!
 
 ## 4. Bring-up
 
-```bash
-roslaunch ros_tcp_endpoint endpoint.launch
-roslaunch xarm_bringup lite6_server.launch robot_ip:=192.168.1.242
-rosrun xarm_bringup mr_teleop_lite6_mvj.py
-```
+- Open xArm Studio through browser: `http://192.168.1.XXX:18333`
+- Open Ubuntu (WSL2), then run following nodes in separate terminals:
+
+  ```bash
+  roslaunch ros_tcp_endpoint endpoint.launch
+  roslaunch xarm_bringup lite6_server.launch robot_ip:=192.168.1.XXX
+  rosrun xarm_bringup mr_teleop_lite6_mvj.py
+  ```
 
 ## 5. Additional Setup for Agile Motion (Experimental)
 
