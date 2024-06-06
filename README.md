@@ -1,4 +1,4 @@
-# Immersive Embodied Telemanipulation Systems with Velocity Controllers
+# Immersive Embodied Telemanipulation System with a Velocity Controller
 
 [![Releases](https://img.shields.io/github/release/Zhefan-Xu/CERLAB-UAV-Autonomy.svg)](https://github.com/RoboDD/usv_autonomy/releases)
 ![Noetic Ubuntu 20.04](https://github.com/Zhefan-Xu/CERLAB-UAV-Autonomy/actions/workflows/Ubuntu20.04-build.yaml/badge.svg) 
@@ -67,7 +67,7 @@ Let's build this codebase for diverse robots.
 
 ## 7. Citations
 
-Immersive Embodied Telemanipulation Systems with Velocity Controllers [Under Review]
+Immersive Embodied Telemanipulation System with a Velocity Controller [Under Review]
 [paper](https://ieeexplore.ieee.org/)
 
 ## 8. Acknowledgments
