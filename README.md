@@ -4,7 +4,7 @@
 ![Noetic Ubuntu 20.04](https://github.com/Zhefan-Xu/CERLAB-UAV-Autonomy/actions/workflows/Ubuntu20.04-build.yaml/badge.svg) 
 [![license](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-Comming Soon!
+Coming Soon!
 
 ## 0. Demo
 
