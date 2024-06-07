@@ -20,7 +20,7 @@ Coming Soon!
 
 ## 2. Hardware
 
-- UFactory Lite 6 Robotic Manipulator (require joint velocity controller)
+- UFactory Lite 6 Robotic Manipulator (require velocity controller)
 - Meta Quest 3 or Meta Quest Pro
 
 ## 3. Install
@@ -46,6 +46,7 @@ Coming Soon!
 - Open Ubuntu (WSL2), then run following nodes in separate terminals:
 
   ```bash
+  ip addr show eth0 | grep "inet\b" | awk '{print $2}' | cut -d/ -f1
   roslaunch ros_tcp_endpoint endpoint.launch
   roslaunch xarm_bringup lite6_server.launch robot_ip:=192.168.1.XXX
   rosrun xarm_bringup mr_teleop_lite6.py
