@@ -16,7 +16,7 @@ Coming Soon!
 <!-- - ```mr_teleop_lite6_mvj.py```: Joint velocity version. -->
 <!-- - ```lite6.urdf```: URDF definitions for UFactory Lite 6 robotic manipulator. -->
 <!-- - ```build_lite6.py```: imports Lite 6 URDF model -->
-- ```lite6mr.exe```: Unity user client (PCVR).
+- ```lite6mr.exe```: Unity user client (PCVR). The source code of the Unity client will be released in a separate repo.
 
 ## 2. Hardware
 
@@ -81,3 +81,9 @@ The author would like to express his sincere gratitude to Prof. X and Y for his 
 - dkt
 - hubotverse
 
+
+## 10. Future Roadmap
+
+- Diverse support for robotic platforms
+- Enhanced UI
+- Bimanual manipulation
