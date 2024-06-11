@@ -71,16 +71,27 @@ Let's build this codebase for diverse robots.
 Immersive Embodied Telemanipulation System with a Velocity Controller [Under Review]
 [paper](https://ieeexplore.ieee.org/)
 
+```
+@INPROCEEDINGS{mr,
+  author={XXX},
+  booktitle={2022 27th International Conference on Automation and Computing (ICAC)}, 
+  title={Immersive Embodied Telemanipulation System with a Velocity Controller}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  keywords={},
+  doi={10.1109/ICAC}}
+```
+
 ## 8. Acknowledgments
 
 The author would like to express his sincere gratitude to people from the Virtual Engineering Centre (VEC), XJTLU who contributed to the development and experiments of this research.
 
 ## 9. References
 
-- unity robotics hub
-- dkt
-- hubotverse
-
+- [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub/tree/main)
+- [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)
 
 ## 10. Future Roadmap
 
