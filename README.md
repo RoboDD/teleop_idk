@@ -41,14 +41,14 @@ Coming Soon!
 
 ## 4. Bring-up
 
-- Open xArm Studio through browser: `http://192.168.1.XXX:18333`
+- Open xArm Studio through browser: `http://192.168.1.<your-robot-ip>:18333`
 - Plug-in Quest Link, then run ```lite6mr.exe```. Reset initial view as desired.
 - Open Ubuntu (WSL2), then run following nodes in separate terminals:
 
   ```bash
   ip addr show eth0 | grep "inet\b" | awk '{print $2}' | cut -d/ -f1
   roslaunch ros_tcp_endpoint endpoint.launch
-  roslaunch xarm_bringup lite6_server.launch robot_ip:=192.168.1.XXX
+  roslaunch xarm_bringup lite6_server.launch robot_ip:=192.168.1.<your-robot-ip>
   rosrun xarm_bringup mr_teleop_lite6.py
   ```
 - Enjoy!
