@@ -16,7 +16,7 @@ Coming Soon!
 <!-- - ```mr_teleop_lite6_mvj.py```: Joint velocity version. -->
 <!-- - ```lite6.urdf```: URDF definitions for UFactory Lite 6 robotic manipulator. -->
 <!-- - ```build_lite6.py```: imports Lite 6 URDF model -->
-- ```lite6mr.exe```: Unity user client (PCVR). The source code of the Unity client will be released in a separate repo.
+- ```lite6mr.exe```: Unity user client (PCVR). The source code of the Unity client might be released in a separate repo.
 
 ## 2. Hardware
 
