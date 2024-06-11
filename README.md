@@ -73,7 +73,7 @@ Immersive Embodied Telemanipulation System with a Velocity Controller [Under Rev
 
 ## 8. Acknowledgments
 
-The author would like to express his sincere gratitude to people from the Virtual Engineering Centre (VEC), XJTLU who contributed to the development of this research.
+The author would like to express his sincere gratitude to people from the Virtual Engineering Centre (VEC), XJTLU who contributed to the development and experiments of this research.
 
 ## 9. References
 
