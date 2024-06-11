@@ -74,7 +74,7 @@ Immersive Embodied Telemanipulation System with a Velocity Controller [Under Rev
 ```
 @INPROCEEDINGS{mr,
   author={XXX},
-  booktitle={2022 27th International Conference on Automation and Computing (ICAC)}, 
+  booktitle={Conference}, 
   title={Immersive Embodied Telemanipulation System with a Velocity Controller}, 
   year={2024},
   volume={},
