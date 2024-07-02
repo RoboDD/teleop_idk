@@ -53,7 +53,7 @@ Coming Soon!
   ```
 - Enjoy!
   
-## 5. Additional Setup for Agile Motion (Experimental)
+## 5. Additional Setup for Agile Motion (Experimental, Optional)
 
 May cause inevitable damage! Be very cautious! Be aware of safety!
 
@@ -72,7 +72,7 @@ Immersive Embodied Telemanipulation System with a Velocity Controller [Under Rev
 [paper](https://ieeexplore.ieee.org/)
 
 ```
-@INPROCEEDINGS{9911086,
+@INPROCEEDINGS{icac24_wu,
   author={Wu, Ziniu; Chu, Yijie; Zhu, Xiaohui; Sun, Qilei; Yue, Yong},
   booktitle={2024 29th International Conference on Automation and Computing (ICAC)}, 
   title={Immersive Embodied Telemanipulation System with a Velocity Controller}, 
