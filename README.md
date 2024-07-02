@@ -72,16 +72,14 @@ Immersive Embodied Telemanipulation System with a Velocity Controller [Under Rev
 [paper](https://ieeexplore.ieee.org/)
 
 ```
-@INPROCEEDINGS{mr,
-  author={XXX},
-  booktitle={Conference}, 
+@INPROCEEDINGS{9911086,
+  author={Wu, Ziniu; Chu, Yijie; Zhu, Xiaohui; Sun, Qilei; Yue, Yong},
+  booktitle={2024 29th International Conference on Automation and Computing (ICAC)}, 
   title={Immersive Embodied Telemanipulation System with a Velocity Controller}, 
   year={2024},
-  volume={},
-  number={},
-  pages={},
-  keywords={},
-  doi={10.1109/ICAC}}
+  pages={1-6},
+  doi={10.1109/ICACXXXXX.2024.XXXX}}
+
 ```
 
 ## 8. Acknowledgments
