@@ -37,7 +37,7 @@ Coming Soon!
   - Oculus App -> Setting -> General ->Turn on "unknown source"
   - Oculus App -> Setting -> Beta -> Turn on "Runtime", "Oculus Link Passthrough (required)"
   - Launch Quest Link : [link](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-link-with-quest-2/)
-- Download ```lite6mr.exe``` from release page [[link]]](https://github.com/RoboDD/teleop_idk/releases/download/icac/lite6mr.zip)
+- Download ```lite6mr.exe``` from release page [[link]](https://github.com/RoboDD/teleop_idk/releases/download/icac/lite6mr.zip)
 
 ## 4. Bring-up
 
