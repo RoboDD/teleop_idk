@@ -212,7 +212,8 @@ class TeleoperationSyncToReal:
             req.duration = 0.1
 
             try:
-                self.ufactory_ctl(req)
+                # self.ufactory_ctl(req) # ! Uncomment this line for safety reasons
+                None # ! Comment this line for safety reason
             except rospy.ServiceException:
                 rospy.logerr("Failed to call SendGripperCommand")
                 pass
