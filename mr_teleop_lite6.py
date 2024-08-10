@@ -197,11 +197,16 @@ class TeleoperationSyncToReal:
             # Calculate the required end-effector velocity and whether the robot has arrived
             ev, arrived = rtb.p_servo(Te, Tep, gain=self.p_servo_gain, threshold=1, method='angle-axis')
 
-            rospy.logdebug(ev)
+            # TODO consistent velocity norm
+            # ev_max = 5.0
+            # if ev > ev_max:
+            #     ev = (ev_max / ev) * ev
+            #     print("ev_norm > ev_max, switch velocity profile: ", ev)
+            # rospy.logdebug(ev)
            
             # Apply the required end-effector velocity to the robot
             req = MoveVelocityRequest()
-            req.speeds = [ev[0]*1000, ev[1]*1000, ev[2]*1000, ev[3], ev[4], ev[5]]
+            req.speeds = [ev[0]*1000, ev[1]*1000, ev[2]*1000, ev[3], ev[4], ev[5]] # mm and rad
             req.is_tool_coord = 0
             req.is_sync = 0
             req.duration = 0.1
