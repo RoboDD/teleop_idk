@@ -68,7 +68,7 @@ Let's build this codebase for diverse robots.
 ## 7. Citations
 
 Immersive Embodied Telemanipulation System with a Velocity Controller
-[paper](https://ieeexplore.ieee.org/)
+[paper](https://ieeexplore.ieee.org/document/10718831)
 
 ```
 @INPROCEEDINGS{10718831,
