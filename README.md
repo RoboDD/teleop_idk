@@ -67,18 +67,20 @@ Let's build this codebase for diverse robots.
 
 ## 7. Citations
 
-Immersive Embodied Telemanipulation System with a Velocity Controller [Under Review]
+Immersive Embodied Telemanipulation System with a Velocity Controller
 [paper](https://ieeexplore.ieee.org/)
 
 ```
-@INPROCEEDINGS{icac24_wu,
-  author={Wu, Ziniu; Chu, Yijie; Zhu, Xiaohui; Sun, Qilei; Yue, Yong},
+@INPROCEEDINGS{10718831,
+  author={Wu, Ziniu and Chu, Yijie and Zhu, Xiaohui and Sun, Qilei and Yue, Yong},
   booktitle={2024 29th International Conference on Automation and Computing (ICAC)}, 
   title={Immersive Embodied Telemanipulation System with a Velocity Controller}, 
   year={2024},
+  volume={},
+  number={},
   pages={1-6},
-  doi={10.1109/ICACXXXXX.2024.XXXX}}
-
+  keywords={Automation;Operating systems;Mixed reality;User experience;Human in the loop;6-DOF;Motion control;Robots;Augmented reality;Graphical user interfaces;Telerobotics;Teleoperation;Mixed Reality;Digital Twin;Manipulation},
+  doi={10.1109/ICAC61394.2024.10718831}}
 ```
 
 ## 8. Acknowledgments
